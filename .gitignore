@@ -155,6 +155,7 @@ activemq-data/
 env/
 venv/
 ENV/
+catboost_info/
 artifacts/
 env.bak/
 venv.bak/
