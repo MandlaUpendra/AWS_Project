@@ -1,7 +1,4 @@
 pandas
 numpy
 matplotlib
-os
-patlib
-sklearn
--e .
+scikit-learn
